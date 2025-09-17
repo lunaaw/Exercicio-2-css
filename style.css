@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(219, 219, 219);
+
+}
+h1{
+  color: blue;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+}
+.aaaa{
+  text-align: center;
+}
+h3{
+  color: rgb(0, 0, 0);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bbbb{
+  background-color: aliceblue;
+  border-radius: 10px;
+  margin:50px;
+  padding: 40px;
+  width:250px;
+}
+p{
+  color: darkred;
+  text-align: center;
+}
